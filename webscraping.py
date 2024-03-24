@@ -24,7 +24,7 @@ for titulo, preco in zip(titulo, valores):
 
 
 # Criar o DataFrame fora do loop
-df = pd.DataFrame({'Produto': produto, 'Preço': valor, 'Link': link})
+df = pd.DataFrame({'Preço': valor, 'Produto': produto, 'Link': link})
 
 df.head(10)
 
