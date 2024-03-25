@@ -5,10 +5,10 @@
   <p>Este código Python demonstra como extrair dados de produtos da página inicial do Mercado Livre e organizá-los em um DataFrame.</p>
 
   <p align="center">
-  <a href="#-Funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Pré-requisitos:">Pré-requisitos:</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
-  <a href="#Exemplo">Exemplo</a>
-  <a href="#-Comousar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Pré-requisitos:">Pré-requisitos</a>&nbsp;&nbsp;&nbsp;|
+  <a href="#Exemplo">Exemplo</a>&nbsp;&nbsp;&nbsp;
+  <a href="#Comousar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
  
 </p>
 
