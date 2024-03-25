@@ -1,11 +1,18 @@
 
-  <h1 style{font-size: 24px;}
+  <h1 style=
   >Extraindo dados do Mercado Livre com Python</h1>
 
-  <p style=margin-bottom: 10px;
-  >Este código Python demonstra como extrair dados de produtos da página inicial do Mercado Livre e organizá-los em um DataFrame.</p>
+  <p>Este código Python demonstra como extrair dados de produtos da página inicial do Mercado Livre e organizá-los em um DataFrame.</p>
 
-  <h2>Funcionalidades:</h2>
+  <p align="center">
+  <a href="#-Funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Pré-requisitos:">Pré-requisitos:</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+  <a href="#Exemplo">Exemplo</a>
+  <a href="#-Comousar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+ 
+</p>
+
+ # Funcionalidades:
 
   <ul>
     <li>Extrai o título, preço fracionário e link do produto.</li>
@@ -13,7 +20,7 @@
     <li>Exibe as primeiras 10 linhas do DataFrame.</li>
   </ul>
 
-  <h2>Pré-requisitos:</h2>
+  # Pré-requisitos:
 
   <ul>
     <li>Python 3.x instalado.</li>
@@ -24,7 +31,7 @@
       instaladas.</li>
   </ul>
 
-  <h2 style=font-size: 18px;>Como usar:</h2>
+# Como usar:
 
   <ol>
     <li>Clone este repositório ou salve o código em um arquivo Python.</li>
@@ -33,7 +40,7 @@
     <li>Execute o código Python.</li>
   </ol>
 
-  <h2 style=font-size: 18px;>Exemplo de saída:</h2>
+ # Exemplo de saída:
  <img src="./img/tabela.png" alt="tabela usando DataFrame">
 
 # Observações:
